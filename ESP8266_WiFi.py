@@ -55,7 +55,7 @@ send_command('AT+CWMODE=1\r\n')
 send_command('AT+CWMODE?\r\n')
 
 #send_command('AT+CWLAP\r\n', timeout=10000) #List available APs
-connect_wifi('AT+CWJAP="CLARO_2G4A5A64","yGJGAzKp8G"\r\n', timeout=5000)
+connect_wifi('AT+CWJAP="NOME_DA_REDE_2GHZ","SENHA_REDE_2GHZ"\r\n', timeout=5000)
 
 send_command('AT+CIFSR\r\n')
 utime.sleep(3.0)
@@ -102,3 +102,4 @@ while True:
         recv_buf=""
         
         print ('Waiting for new connection...')
+
