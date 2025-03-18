@@ -1,1 +1,8923 @@
-aa
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.890444752308916,
+          -22.32947726660546
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.610612338212626,
+          -22.5800730090173
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5040616279484,
+          -22.307874833986453
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.096440555465364,
+          -21.976968770995924
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.08489029213989,
+          -22.035268714779477
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.02559740215886,
+          -22.331934846353906
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.98801848899554,
+          -21.62115356473972
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.89674418683133,
+          -21.727336865629784
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.87974494491985,
+          -21.422639659298145
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.81496992528142,
+          -21.09733070771308
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.738526686100826,
+          -21.902216885444545
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.70999662915039,
+          -21.36481039372372
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.67545711586081,
+          -21.227890596622846
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.665497530545125,
+          -21.99449518932739
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.658152169593386,
+          -22.36512757382982
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.650090766251466,
+          -21.46138411020027
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.63529373491657,
+          -21.32562725680815
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.605335497415126,
+          -22.54699410593584
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.58585223312602,
+          -21.807941567995094
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.584261775993,
+          -22.462494894037643
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.53594543727641,
+          -21.0230013106422
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.52307113295605,
+          -21.441548180797415
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.509520032278374,
+          -21.9685288179029
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.506206773343486,
+          -20.653972571659732
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.472032276772865,
+          -22.37158024657815
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.45761904370366,
+          -21.029830557159656
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.43405926912479,
+          -21.09396187370916
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.430083048651284,
+          -21.71711797329688
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.39688957784951,
+          -20.962229324134125
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3771236600167,
+          -21.98464321971513
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.36787353751688,
+          -21.584750838258255
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.35220184413547,
+          -22.134385457639695
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.33473583521995,
+          -21.812096506056584
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.31109334281184,
+          -22.366478212569163
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.30626793516115,
+          -20.29597694368389
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.278791459961326,
+          -22.178513057559584
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.26591861309878,
+          -21.65040131605841
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.264482423246434,
+          -22.177465489459586
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.16514165399846,
+          -21.11531988780401
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1401211085736,
+          -20.906076572798575
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.08668468172995,
+          -20.197525343245953
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.077133407040535,
+          -21.610556898462853
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.05025509607964,
+          -21.545364064762865
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.994810102219624,
+          -21.34065837579297
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.98630014136963,
+          -22.16118841303311
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.954909922769644,
+          -22.694955518366484
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.94773798975811,
+          -21.859614731211586
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.91625732853925,
+          -22.547353469710902
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.91563449872952,
+          -22.040015042266603
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.90759583971175,
+          -20.515747524366123
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.90300588440185,
+          -20.81660837070176
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.865941233508934,
+          -20.390650372433416
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.85155930933644,
+          -20.907857455199807
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.837282949864736,
+          -20.264466206948796
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.83148596248643,
+          -20.447247431468575
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.82205499015367,
+          -20.11871763200622
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.814894995688654,
+          -21.909543031037728
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.808056088263214,
+          -20.25781004352204
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.803214694688144,
+          -20.664964290715687
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.7820280133214,
+          -21.383519652971405
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.776811795384646,
+          -22.791714493952238
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.72481795585127,
+          -22.332905571972642
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.72093780085289,
+          -21.694621946234893
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.70751429765779,
+          -21.924960263013837
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.665028320117834,
+          -21.659590163499015
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.66158975305433,
+          -19.867623369861246
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.654132668781635,
+          -20.71384469939596
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61796139067252,
+          -20.262214017413527
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.61151540749552,
+          -21.562611774742688
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.585516195483635,
+          -21.53103789001104
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.58111419044897,
+          -21.672653859131557
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.58082190679509,
+          -22.104448484481413
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.58004320232114,
+          -21.379774468868625
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.56524378770774,
+          -21.846108893764956
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.54752072895719,
+          -22.794569939230357
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.54430768335885,
+          -20.046186169721935
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.53956412436106,
+          -20.50742198310975
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.51576818575676,
+          -20.21074953554391
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5083726338242,
+          -20.079406682983702
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.48729208290788,
+          -22.182095491455435
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.472503532800914,
+          -22.911020325260647
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.46991602516045,
+          -19.91491371811842
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.45842010776555,
+          -20.98191376305544
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.44698159770446,
+          -22.62780451227833
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.44280219109334,
+          -19.886677610835605
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4344962177875,
+          -21.047828463280123
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.41198803526828,
+          -21.65212245734546
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.390122861655485,
+          -21.47745696786578
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.37753242756384,
+          -21.158856970467593
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.36283395960661,
+          -21.913444775714282
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.34105688434758,
+          -20.338455957895683
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.32400180239837,
+          -20.47348465453947
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.31567142849982,
+          -20.735304031126343
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.303716369462876,
+          -21.536294102162415
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.30190901992351,
+          -19.987651151947762
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.29140248677495,
+          -21.05475048719377
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.28642635608769,
+          -20.659705008152578
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.23749488683458,
+          -21.32032845705421
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.21871450455567,
+          -21.128649363296834
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.1958585610408,
+          -22.92884206739943
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.1938151044354,
+          -21.928505549307236
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.193796213963275,
+          -20.335173018929357
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.18811123128221,
+          -21.64442454964158
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.13267407502694,
+          -21.331503776988335
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.1292123750725,
+          -20.45446065876631
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.12554873192648,
+          -20.4959912739451
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.1046223167592,
+          -20.00196002874123
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.05402233954337,
+          -20.653325503592082
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.049417018199996,
+          -22.077119189295374
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0362146686403,
+          -20.198763882034815
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.02324637732637,
+          -20.844450133172153
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.013175465544634,
+          -22.23903333405371
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.99877615695244,
+          -21.33000647810743
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.99351911940536,
+          -22.844609094331286
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9522343400572,
+          -21.25113876991861
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.93710014878499,
+          -22.80977483214864
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.92230178227429,
+          -20.97596099911539
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.89757462493029,
+          -22.34048811144204
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.883201117037245,
+          -20.32758763713812
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.87197556730579,
+          -21.97797059284452
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.845405906335344,
+          -21.797397972122617
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.832809438656106,
+          -22.960096447741574
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.83076023309345,
+          -22.258991365972168
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.82554838369461,
+          -20.20066116198937
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.81847885458339,
+          -20.8528385165217
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.78629069836986,
+          -22.465822350060257
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.78570116138632,
+          -20.66797568691709
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.772474425102295,
+          -20.706815299051684
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.74036148669151,
+          -22.13258558614263
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.736779074954704,
+          -20.61411180198812
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.73322754555455,
+          -22.534635442322063
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.730216445980254,
+          -20.15888567181403
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.70854737060516,
+          -21.423421141575986
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.693573595412374,
+          -21.26049381747685
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.63427591006527,
+          -21.815035935616255
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.63369738700787,
+          -22.708494218542018
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.628574443834914,
+          -20.78762102036775
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.599305520580316,
+          -21.211226303647486
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.57771243869943,
+          -23.00590746131379
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.56566421820888,
+          -23.30814544199208
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.559530058039336,
+          -21.427111811845528
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.550743864816226,
+          -20.23616213995868
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.53023123873567,
+          -23.862640935437646
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.52945953405137,
+          -21.243749912980583
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.51278135099602,
+          -23.955340661106494
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4891672623516,
+          -23.26330418635482
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.46143312703758,
+          -23.396417462180203
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.45747449293589,
+          -21.377113488161793
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.45043762886289,
+          -20.811417895919295
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.45028005974074,
+          -21.059939155800688
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.44875568333866,
+          -22.424526608137676
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.445643921065226,
+          -21.32249909391506
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.44421364144938,
+          -20.72781447147484
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.44089114065606,
+          -23.133042269594807
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.435570203197166,
+          -20.920017719748977
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.43405086064656,
+          -19.915347408079594
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.41533007934922,
+          -23.43379241481544
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.413949021943594,
+          -22.437374668707818
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.39639668877124,
+          -23.431790552830826
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.39175872698192,
+          -20.82794371515767
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.37668791731555,
+          -21.79008547843964
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.372556185243205,
+          -21.890115020462616
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.35916438970983,
+          -20.911283525574735
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.313653286828114,
+          -21.023845284065505
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3054041524571,
+          -22.44691426652904
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.300675716891874,
+          -23.09275841816202
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.285084486914435,
+          -20.82431615985879
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.282477616948974,
+          -20.361395558554563
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.27816232026103,
+          -21.23438206717145
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.27278618387409,
+          -20.43758130119565
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.26664042885423,
+          -22.133031535600125
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.265926154647694,
+          -20.805861339995083
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.23290082242612,
+          -23.644895760172822
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.223898189630034,
+          -21.47741107686156
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.21723162800304,
+          -20.59966641582468
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.203101496569495,
+          -23.094620312025214
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.194393782717796,
+          -20.883564702533555
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.19322285048059,
+          -22.727153793695372
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.19131538472399,
+          -23.682661584122464
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.180299199837926,
+          -21.46901343369935
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.163434121649246,
+          -23.507269311008603
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.13378039742302,
+          -21.62738680831781
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1317438258399,
+          -24.533699873657426
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.12085413576734,
+          -20.769955263251745
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.11997382306903,
+          -20.573599065535202
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.11427612293513,
+          -20.936896958455204
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.09782845272063,
+          -22.87208506567108
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.06752956160331,
+          -22.418353862931582
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.054854680130646,
+          -24.120376928312442
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.05299657667398,
+          -21.847715208223654
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.05086363993407,
+          -20.338981881644564
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.03639010405108,
+          -23.21347980622955
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0205220628038,
+          -23.810032972160236
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.01941823557694,
+          -22.353425867506747
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.014260406291434,
+          -22.169315139968795
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.006475751303874,
+          -22.339678157503148
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.98403872487546,
+          -23.946097843647575
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9824669174417,
+          -21.234791197167212
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.98106956343764,
+          -23.240590538318525
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.967919671553844,
+          -22.24520658388465
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.95724789542141,
+          -24.386925233060072
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.944713251987565,
+          -22.00749998857248
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.92650914663555,
+          -21.205182346589798
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.91071000757541,
+          -20.868379152156315
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9094950535153,
+          -21.96624591067469
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8698652371045,
+          -20.74110961127435
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.86386751013792,
+          -20.935188118621657
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.853724074359356,
+          -21.162919782725385
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.835482546918996,
+          -22.216510132362195
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.82761969322565,
+          -21.66143460015285
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.821798648936344,
+          -22.656874772940775
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.81347452726898,
+          -21.152922460793164
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.77504299712891,
+          -21.262405483251502
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.74570295255326,
+          -23.922816966152023
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.73685477678097,
+          -23.518549102465155
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.72125206726221,
+          -23.83900657791705
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.71057045837181,
+          -21.17728328565114
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.69876968962128,
+          -22.810131120574002
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.697120645459535,
+          -24.338199510367915
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.689980877583274,
+          -21.941771859525435
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.68874630313792,
+          -21.11959754981127
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.68220868457121,
+          -21.008193521231057
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.681482094918856,
+          -22.977168426988637
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.66938387142781,
+          -22.311967040539514
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.66368316693701,
+          -20.15856126800397
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.66353300422797,
+          -22.503168666310067
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.655067871229164,
+          -21.38420048215545
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.65416360900086,
+          -22.603746177317838
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.65024382019909,
+          -21.26918569416101
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.64858316242155,
+          -22.763056152535906
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.63918439821215,
+          -21.8360490282735
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.62516691518128,
+          -24.132815555902155
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.61060871851615,
+          -22.55157409660049
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.568801061756986,
+          -21.677237272301884
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.56196875022155,
+          -21.328795794520964
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.554291997109765,
+          -21.08325278770183
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.548817563495575,
+          -22.65441267550284
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.538683904229416,
+          -20.650243482786323
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 832
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5167901694967,
+          -21.69283012438418
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.51563878085673,
+          -20.63344870674816
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.49091042296581,
+          -21.432617648019097
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.479160693851114,
+          -20.704764200717943
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.45320809350219,
+          -22.367840668914486
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.45163070542051,
+          -22.51721331576829
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.44581966482369,
+          -22.42214033582199
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.43973016569155,
+          -22.003148480467598
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.43881026970386,
+          -21.094745918613004
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.43844915420401,
+          -22.079580545908925
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.437964347641255,
+          -23.650762428479663
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.43362834268186,
+          -21.504380259689942
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.43229814988556,
+          -21.161963601737202
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.40486117794024,
+          -21.166151515245765
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.394739121499335,
+          -21.642521481650324
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.39252999913443,
+          -20.801535563653452
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3904959284465,
+          -20.14188890671295
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 189
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.36310113423683,
+          -20.851271232408987
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.35275563585803,
+          -20.70348000378812
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.33824349040703,
+          -23.4343931327711
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.33582421346605,
+          -23.42192988815319
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.330650171721665,
+          -21.012460167204665
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.329539950845465,
+          -24.292355429543786
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.32937679936144,
+          -22.42292084873621
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.30201290904041,
+          -23.503964328545234
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.29374575517006,
+          -21.94155136828977
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.23902560981629,
+          -21.938948116153096
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.234021442216736,
+          -21.459390684126586
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.219202501810656,
+          -21.476854343365012
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.201689953914816,
+          -24.83777730937913
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.175649073901,
+          -20.04745691109538
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.15141391066662,
+          -21.713953839417307
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.149106970679135,
+          -21.25638462927362
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.137763624818206,
+          -24.404907802102695
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.13752489035224,
+          -22.509757295735813
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.12933903260421,
+          -21.407542461797863
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.11278700844419,
+          -21.84003343714907
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.111316478805875,
+          -22.150569828583958
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.104865415797875,
+          -21.081604579060045
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.09963177096725,
+          -22.601521176752723
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.09948488891878,
+          -21.748737285813593
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.09424623280204,
+          -23.23045459297809
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.082325391491935,
+          -24.445326115117208
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.081277689740155,
+          -24.090182183711953
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.079214865140024,
+          -21.530967139757202
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.073067931140535,
+          -20.491996862768044
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.06955862301503,
+          -21.941734712115743
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.06484921902813,
+          -22.905652178198743
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.03584433857319,
+          -24.435630655051884
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.020283447538695,
+          -20.40860463384201
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.01900897177386,
+          -21.785987806210045
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1050
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.01523562064165,
+          -21.16802433686993
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 315
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.00703582826855,
+          -21.774906250992302
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 810
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.99305097291797,
+          -20.62044594097988
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9915247255064,
+          -24.848651751731897
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.97599266598241,
+          -20.722379894562906
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.97223386988148,
+          -21.60201576998776
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.96327271886714,
+          -23.99881373495449
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.95156604376624,
+          -24.628120222014775
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.94258533986561,
+          -21.595549394787568
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.93526026135426,
+          -24.932092613242556
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9134108487354,
+          -21.221747972432777
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.91244407178682,
+          -21.26733581352688
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.90769664302041,
+          -21.161331726323297
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.899194815063055,
+          -22.726330811512682
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.89903219226061,
+          -23.074600251228333
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.89057024928755,
+          -20.890361363733795
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.86638120870897,
+          -23.93047848638278
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.85790033250309,
+          -23.423270056445695
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.83841890452374,
+          -21.085126043836635
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8031121582771,
+          -23.17382330313631
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.781555868067194,
+          -20.82629143861937
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.77859938232156,
+          -22.291674278049985
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.7783409745456,
+          -20.165659877083062
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.778107695286856,
+          -22.887268102562672
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.76494816432767,
+          -23.193155181425745
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.7635736961465,
+          -21.197156418942924
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.762526930230976,
+          -22.416911424227003
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.75883084477806,
+          -21.566376460640843
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.74877511501648,
+          -22.807481387750556
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.74684426057976,
+          -22.468807547584927
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.736342330967624,
+          -21.11637390809359
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.70786461787934,
+          -22.45531268874194
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.703368142439054,
+          -20.51223065198185
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.696866043141334,
+          -21.031621697910648
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.696438768225654,
+          -22.878351251311724
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.68091836185735,
+          -23.48297634437029
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.68069298995557,
+          -24.766002282258558
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.66943294222193,
+          -22.884116360465246
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.66656299899191,
+          -20.183252016967067
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.664953812413785,
+          -23.695413134061486
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.66122902436351,
+          -21.18011095553908
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.65587198702509,
+          -21.269516939094586
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.65070205227487,
+          -23.615522818111128
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.63688482043494,
+          -21.23492975986064
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.62834118629033,
+          -24.200355343948715
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6141853107104,
+          -20.25907325623878
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.61360698871697,
+          -24.961676220562044
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.595049141498876,
+          -23.45451968176284
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.59463655494811,
+          -20.684928402183363
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.59419034728286,
+          -22.314186782656424
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.574856954703925,
+          -22.4457494496119
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.57437042577709,
+          -20.504212315607173
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.572665078144404,
+          -21.888586341531113
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.56502544240422,
+          -23.049840185948593
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.56361595229075,
+          -23.557210935002185
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.52950857314737,
+          -22.593348935313017
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.52407641471966,
+          -21.36987072289704
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.51883253211293,
+          -20.935044554065588
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.514000694008615,
+          -23.57127014367942
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.50986518772926,
+          -20.028683736827627
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.50267188938499,
+          -23.006882015507404
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.495946839211825,
+          -22.64550822271271
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.484718393593425,
+          -23.244469136143486
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.483570887487105,
+          -21.931061931340537
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.482472670144325,
+          -23.437799059333948
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.47026311503545,
+          -23.628816963837185
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.46524194302516,
+          -22.3839345002231
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.46466216128021,
+          -21.556793090583028
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.45880639121155,
+          -23.45851757444611
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.455884404265184,
+          -22.678819683094172
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.453528483363236,
+          -22.715382536260815
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.41875722592676,
+          -22.510592016137636
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.41829136460053,
+          -24.252379414928534
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.41698091549627,
+          -23.38058187914825
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.40983650499695,
+          -22.894660661924803
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.397848548235224,
+          -22.108590581956197
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.39330791518897,
+          -20.315097149020225
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.37622976124496,
+          -22.86177399134608
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.36905271873661,
+          -23.975844908736796
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.35682169366206,
+          -22.690381609517317
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.35165403334061,
+          -23.36800467094213
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.33546587967826,
+          -19.967357304242032
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.3214332289585,
+          -20.74240615295018
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.314111039637446,
+          -21.487617702075813
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.307130819037496,
+          -23.589824420953924
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.3013255599537,
+          -23.137202545407717
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2979096531528,
+          -21.51578972977457
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.29589048250001,
+          -21.192428396782617
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.286151069481406,
+          -23.21151222744973
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.28524538912483,
+          -20.466111526047005
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.27863784022318,
+          -22.084333759648125
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.27086546009956,
+          -22.806174394660744
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.26984922103162,
+          -22.694278694700188
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 348
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.266335248653135,
+          -22.25401098405469
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.26418692183002,
+          -22.799414356477335
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.24718978425593,
+          -22.78253891983233
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.24027123423214,
+          -22.86509645509152
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.230462659044356,
+          -23.550905683298005
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.21342530086372,
+          -22.211127328735
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.20319356182675,
+          -21.888060033269852
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.200305859770125,
+          -22.886006117855082
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.186370950817924,
+          -22.90841760323999
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.18071992198284,
+          -20.67067580560656
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.16581491146739,
+          -22.755609266006317
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.165403858745734,
+          -22.29164092924296
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.15486553120788,
+          -23.567886154420158
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14612437518336,
+          -23.230892451986286
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.14574920637637,
+          -22.683430195711036
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.13358009062908,
+          -21.703699324348058
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.120019272009095,
+          -23.04885997022179
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11884346773435,
+          -23.504924584666636
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.11104036063918,
+          -22.622387587120333
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10970966799919,
+          -22.67131229295681
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.10203320097949,
+          -22.473993196448998
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.08339859659999,
+          -23.07751321118684
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.07228368555125,
+          -24.411222478540612
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 570
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0673831884724,
+          -22.789486021288365
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.06471984271448,
+          -21.324351129385338
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.063267472380915,
+          -22.867165432697618
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046359167695464,
+          -24.309024973198305
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03883016721613,
+          -23.60777734115356
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.03048154983269,
+          -23.59973356076698
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02213696633089,
+          -21.63027944407238
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.020871116130834,
+          -21.48698602899826
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.02027093333684,
+          -23.166247275524874
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 2860
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.01869038031773,
+          -22.6173891523998
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.011772321445534,
+          -22.390730149140296
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.00518687188424,
+          -23.088115666773255
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0015603471313,
+          -23.01877317532584
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99489998684955,
+          -23.05941453649602
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.99230358794328,
+          -24.182647289285658
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98833688083715,
+          -23.95778351950741
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.98540089209997,
+          -23.390549030405307
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.981576871381584,
+          -23.563718163153816
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9759570382852,
+          -23.065169292613255
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.96202204528364,
+          -22.99303868483067
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.949893556103405,
+          -23.40255438708092
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94634216202479,
+          -23.57687860063391
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94388559629738,
+          -23.549956364686185
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94276899271776,
+          -22.027215819812106
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.94167083085021,
+          -22.20062556178819
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.93974754855555,
+          -21.80186177751884
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.934135749321705,
+          -22.725069169847366
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.92215014976608,
+          -23.756882573692234
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.91736504689301,
+          -22.5482812090547
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.91152841140038,
+          -23.86993185366631
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.910497403749986,
+          -23.48715424449938
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1050
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.90730686339452,
+          -24.20978811524641
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 328
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.886596619272424,
+          -23.7815283499089
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.88374869108238,
+          -22.983267458351023
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.877167522046506,
+          -23.530223674296245
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.853346148381405,
+          -23.54487969955551
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.84579279935549,
+          -23.42218363775438
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 588
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.84302717549985,
+          -23.762014689214663
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8293961254855,
+          -23.25841975696759
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.82857459451903,
+          -22.94899269676766
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.82464089953409,
+          -23.895372389816657
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.81861004174688,
+          -23.740523236933033
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.818586697047486,
+          -23.531448793915875
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.816584489249074,
+          -23.412303921964483
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1078
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.81244456686753,
+          -23.436461684506018
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.81171154740326,
+          -23.25714161001816
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8098871223631,
+          -23.624099016529655
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.80879968976531,
+          -23.54054600704243
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.80456881862802,
+          -22.030151051429353
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.804002946566804,
+          -23.161189127679
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.80199066514723,
+          -23.755932919454267
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1096
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79769862196763,
+          -23.627603219037134
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1096
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79755393009311,
+          -23.654702183607995
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79417631064929,
+          -23.396090948702334
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.79310914028145,
+          -23.66273335599168
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.789627295555356,
+          -23.630808287003095
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.78885856334885,
+          -23.426862903604704
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.78864052919341,
+          -23.38251077419519
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.78609736616273,
+          -21.819702832175572
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.78552102553724,
+          -23.58206362790814
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.784323054787706,
+          -23.488705287022775
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.778294146848474,
+          -23.52993773990354
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.77507097888515,
+          -23.645263277411576
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.77465569913479,
+          -23.51791746970209
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.77336462366123,
+          -23.288576134481236
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.771493625629965,
+          -23.538969926482363
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.76961096733646,
+          -23.83415771136867
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.76916311955421,
+          -22.93515687648552
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.76771575837072,
+          -23.49561857208868
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.75568728810117,
+          -23.554978317289745
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74125449292791,
+          -23.15172389048483
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74121275752979,
+          -22.16174451923394
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73858927205245,
+          -22.997098394762908
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.737884347682375,
+          -23.88934206739692
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.736299237166634,
+          -23.474978925022377
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7341784095788,
+          -22.784074959493854
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7328266585284,
+          -21.45674186528926
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.73005763391061,
+          -23.582008112808133
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72975767047574,
+          -23.875571466778208
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7091328629094,
+          -22.16388387664106
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7066674060905,
+          -22.48106693503123
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 540
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.70076626479968,
+          -23.61956309998343
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69874467133731,
+          -22.635941364241443
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69781585510079,
+          -23.501449320817468
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1816
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.69443321323472,
+          -22.64852214028434
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.690058738776926,
+          -21.89460219177241
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.68283122815477,
+          -21.640291939613533
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.67963008454069,
+          -23.309469834889452
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 2550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.67761483784228,
+          -23.948196968538717
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66363079599422,
+          -23.821021176811314
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.66023879838471,
+          -23.541419832782584
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64718095429997,
+          -22.941877839155403
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64638556181054,
+          -23.925748606368423
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 992
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64021492535927,
+          -23.924319022661475
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63756872855294,
+          -24.137626613895574
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 810
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63235283967469,
+          -23.86949516592281
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.62403178338575,
+          -23.95566699429089
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.622361779996226,
+          -22.473549247679106
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.62061782313045,
+          -22.51234397526343
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.619587565316316,
+          -23.7283453669306
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 462
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.61589886647306,
+          -23.783703439970456
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6091368921517,
+          -23.628357810985037
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.605846877743964,
+          -23.6782309361337
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5986467954186,
+          -23.68550791942968
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.595647718720386,
+          -22.894016668990286
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.59542521928773,
+          -23.82410247163564
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1504
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.59063971373068,
+          -23.70005613132403
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 930
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.58807470692716,
+          -23.740753659540836
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.58614891004874,
+          -23.432611217737644
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.583496046162935,
+          -23.879032686262846
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.58062742158159,
+          -23.928482649831242
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.580604524581474,
+          -23.88906279576811
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57539668986945,
+          -22.605590199909884
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57492451820012,
+          -23.602025184365257
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.573408015643125,
+          -23.262032535417724
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.56532816271315,
+          -23.91125096448271
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.56465349316494,
+          -23.576324821826905
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.560704816305496,
+          -23.802644565108082
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 490
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.55114534684554,
+          -23.439281269734135
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54920013670047,
+          -23.119128699255842
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54663476926496,
+          -23.600121364671363
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 690
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54359117845443,
+          -23.473040703759825
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54275520348808,
+          -23.383623927136135
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.542001687207915,
+          -23.89424331583232
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 936
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.53832335003293,
+          -23.965498407070132
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5354163443477,
+          -23.643191371244207
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.533382619617896,
+          -23.3013155476065
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.53221130142161,
+          -23.876870156116127
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5287354312141,
+          -23.98520823694622
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.525441901200395,
+          -23.336804159512315
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 781
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.52233579837142,
+          -23.272966107768195
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 451
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5201325975563,
+          -23.725240934706406
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.51474702760103,
+          -22.82914345528131
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.51226789943768,
+          -23.687968730162197
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.49648502324546,
+          -23.639425562844597
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 568
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.48148838313801,
+          -23.700496613073984
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.480612970078305,
+          -23.900781517173442
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.47892621546703,
+          -23.825816312614933
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4783020175365,
+          -23.817547716295476
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.47737871801161,
+          -23.64469807897219
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.46989444809301,
+          -23.624303834423937
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.46014287383492,
+          -23.787940801127046
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.45696218801632,
+          -23.17184952227426
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.455572798559174,
+          -23.361905449845498
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.44993122344356,
+          -23.72171462891925
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.44663141456184,
+          -23.31024077130075
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.43942843178904,
+          -23.79756587899706
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 912
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.434651012888146,
+          -23.45467350778272
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.43362908523329,
+          -23.89595204912219
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.43132869252035,
+          -23.750941862790526
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.43066634758944,
+          -23.616758361190342
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.429709293842045,
+          -23.373244467533926
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.42894882893611,
+          -23.945527171718474
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.42296015778454,
+          -23.860771791298692
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.422078912321105,
+          -24.03639837308901
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4219211441332,
+          -23.60200642665887
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1568
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.419120306356085,
+          -24.036776931048397
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.414506150668274,
+          -23.878382994982147
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.408867832962656,
+          -23.40546179383313
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.406767262832886,
+          -23.640739719959345
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.405645320523305,
+          -23.622151024069705
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.40362448743846,
+          -23.675796663805286
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.394471372505734,
+          -23.783111285811223
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.394119538337485,
+          -23.50354899411244
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.39190505070116,
+          -23.524572255353196
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.38903825949595,
+          -22.92773774891712
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.38732433264609,
+          -23.77276949818082
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.38642199581002,
+          -23.437629539192166
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.38436088577562,
+          -23.58330967834662
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3837664891548,
+          -23.436865393990026
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.38376598752639,
+          -23.44961985771617
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.38314159499129,
+          -23.8476002177464
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.380802936088216,
+          -23.408445999127746
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.380039675795054,
+          -22.990452380992288
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.37686647510873,
+          -23.832624742842544
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.37117168163063,
+          -23.475190696901983
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.37050414445168,
+          -23.55773297099685
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.36703289441585,
+          -23.620230322335267
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.36582207396037,
+          -23.562126784699075
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.36492280242525,
+          -23.067050612392705
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.36234207805562,
+          -23.369665416966104
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.361312577154905,
+          -23.74100229675909
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.359473933338045,
+          -23.500323025432987
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.32134067782185,
+          -23.269919182252647
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.31791436503834,
+          -23.463415888298808
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.31780061626993,
+          -23.492810140010217
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.26231352892276,
+          -23.543146506276102
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.24946202872837,
+          -23.85065904655528
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.22379811333017,
+          -23.369766240613338
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.21851569316422,
+          -23.986213020390643
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.21496892577037,
+          -23.856645801368256
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.2113869914903,
+          -23.832728688736857
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.159792900232006,
+          -23.378147005409588
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.091838952509654,
+          -22.965100074158475
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.07872119684189,
+          -23.055199526216693
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.05084265495367,
+          -23.42560403975254
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.0351196563822,
+          -23.708017482398393
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.91748656845529,
+          -22.932246000506048
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.89776648032522,
+          -23.236832811183916
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.88618832390968,
+          -23.74516866598487
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.85328382869906,
+          -23.377242776940484
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.821830419901715,
+          -23.596234046347913
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.77704624172073,
+          -23.8512504346386
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.773994164396015,
+          -22.850868919476184
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 272
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.76504757592329,
+          -23.385867189321647
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.74141476290349,
+          -22.857609559678405
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.737236984083545,
+          -23.537376979301932
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.701129215417495,
+          -22.92264660795473
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.69147918703608,
+          -23.09668772056501
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.68378845390058,
+          -22.85782022003295
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.67989913621527,
+          -22.99761769705523
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.58357118146362,
+          -23.064238511568945
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 1188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.52538140485286,
+          -23.003226203729454
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.52054315666665,
+          -22.731231248226155
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.42948415216193,
+          -23.053739705675188
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.400638979283386,
+          -23.82873941528558
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.39153899903445,
+          -22.70925713886931
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.30243611869865,
+          -23.578339697431026
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 351
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.291019957578285,
+          -23.232376873090228
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.27281122942579,
+          -22.86650504923967
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.270897198676636,
+          -22.88824406519188
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.238928141724124,
+          -22.806903203821747
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.13104011378625,
+          -22.5306365311258
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.06818828406871,
+          -23.077782979628157
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.03469999562441,
+          -22.863696433344973
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.02653080698517,
+          -22.540647403139214
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.98003830243768,
+          -22.770671022746033
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.94330944914987,
+          -22.763056495973128
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.815240217846984,
+          -23.585993439205186
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 3388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.70135044778283,
+          -22.595515322126275
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.69715272941147,
+          -22.5054594142941
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.35996027516922,
+          -22.76059165781018
+        ]
+      },
+      "properties": {
+        "name": "Alessandro Cézar Araújo Azevedo",
+        "votes": 64
+      }
+    }
+  ]
+}
