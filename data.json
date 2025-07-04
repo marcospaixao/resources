@@ -1,0 +1,132 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300,
+      "strokeWidth": 0
+    }
+  },
+  "data": {
+    "format": {
+      "feature": "region",
+      "type": "topojson"
+    },
+    "url": "https://raw.githubusercontent.com/marcospaixao/resources/refs/heads/main/regions.json"
+  },
+  "datasets": {
+    "data-ea2850fb05825f33b340f0929710ce99": [
+      {
+        "id": 1,
+        "value": 47.46153846153846
+      },
+      {
+        "id": 2,
+        "value": 57.2
+      },
+      {
+        "id": 3,
+        "value": 39.411764705882355
+      },
+      {
+        "id": 4,
+        "value": 47.8421052631579
+      },
+      {
+        "id": 5,
+        "value": 49.05555555555556
+      }
+    ]
+  },
+  "height": 600,
+  "layer": [
+    {
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "properties.name",
+            "title": "Estado",
+            "type": "nominal"
+          },
+          {
+            "field": "value",
+            "title": "Estado",
+            "type": "quantitative"
+          }
+        ]
+      },
+      "mark": {
+        "color": "darkgrey",
+        "stroke": "#555",
+        "strokeWidth": 0.5,
+        "type": "geoshape"
+      },
+      "transform": [
+        {
+          "as": "idf",
+          "calculate": "datum.properties.id"
+        },
+        {
+          "from": {
+            "data": {
+              "name": "data-ea2850fb05825f33b340f0929710ce99"
+            },
+            "fields": [
+              "id",
+              "value"
+            ],
+            "key": "id"
+          },
+          "lookup": "properties.id"
+        }
+      ]
+    },
+    {
+      "encoding": {
+        "color": {
+          "field": "value",
+          "legend": null,
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "properties.name",
+            "title": "Estado",
+            "type": "nominal"
+          },
+          {
+            "field": "value",
+            "title": "Estado",
+            "type": "quantitative"
+          }
+        ]
+      },
+      "mark": {
+        "color": "darkgrey",
+        "stroke": "#555",
+        "strokeWidth": 0.5,
+        "type": "geoshape"
+      },
+      "transform": [
+        {
+          "as": "idf",
+          "calculate": "datum.properties.id"
+        },
+        {
+          "from": {
+            "data": {
+              "name": "data-ea2850fb05825f33b340f0929710ce99"
+            },
+            "fields": [
+              "id",
+              "value"
+            ],
+            "key": "id"
+          },
+          "lookup": "properties.id"
+        }
+      ]
+    }
+  ],
+  "width": 800
+}
